@@ -1,0 +1,6 @@
+{
+  "name": "LearnDcrack",
+  "description": "An online learning and content creation platform for high-performance engineering domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
