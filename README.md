@@ -165,7 +165,7 @@ This project demonstrates practical knowledge of:
 
 **Kadari Rohitha**
 
-B.Tech – Artificial Intelligence & Machine Learning
+
 
 ## License
 
